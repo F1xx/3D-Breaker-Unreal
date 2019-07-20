@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GameFrwkSessionsPlugin-1868.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"Z:\Projects\Git Backup\HighLevel_2\TravisBFinal\Intermediate\Build\Win64\TravisBFinalEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"Z:\Projects\Git Backup\HighLevel_2\TravisBFinal\Plugins\GameFrwkSessionsPlugin\Intermediate\Build\Win64\UE4Editor\Development\GameFrwkSessionsPlugin\Module.GameFrwkSessionsPlugin.cpp.obj"
+"Z:\Projects\Git Backup\HighLevel_2\TravisBFinal\Plugins\GameFrwkSessionsPlugin\Intermediate\Build\Win64\UE4Editor\Development\GameFrwkSessionsPlugin\Module.GameFrwkSessionsPlugin.gen.cpp.obj"
+"Z:\Projects\Git Backup\HighLevel_2\TravisBFinal\Plugins\GameFrwkSessionsPlugin\Intermediate\Build\Win64\UE4Editor\Development\GameFrwkSessionsPlugin\PCLaunch.rc.res"
+/OUT:"Z:\Projects\Git Backup\HighLevel_2\TravisBFinal\Plugins\GameFrwkSessionsPlugin\Intermediate\Build\Win64\UE4Editor\Development\GameFrwkSessionsPlugin\UE4Editor-GameFrwkSessionsPlugin-1868.lib"
